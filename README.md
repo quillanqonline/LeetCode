@@ -1,2 +1,2 @@
 # LeetCode
-A repository of LeetCode problem solutions
+A repository of LeetCode problem solutions. The language used within these problems varies depending on what I want to use. This decision is typically made due to personal preference, though may sometimes be relevant to the context.
